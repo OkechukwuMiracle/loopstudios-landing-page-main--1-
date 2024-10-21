@@ -531,6 +531,7 @@ h6 {
   h3 {
     width: 100%;
     font-size: 2rem;
+    text-align: center;
   }
 
   .h3-p {
@@ -647,6 +648,12 @@ h6 {
     cursor: pointer;
     text-align: center;
     margin: 0 auto;
+  }
+
+  .all {
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 19px;
   }
 
   .general-4 {
